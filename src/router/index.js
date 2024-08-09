@@ -5,6 +5,8 @@ import Casino from '../pages/Casino.vue'
 import Budget from '../pages/Budget.vue'
 import Boutique from '../pages/Boutique.vue'
 import Contact from '../pages/Contact.vue'
+import Privacy from '../pages/Privacy.vue'
+import Terms from '../pages/Terms.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -38,6 +40,16 @@ const router = createRouter({
       path: '/contact',
       name: 'contact',
       component: Contact
+    },
+    {
+      path: '/privacy',
+      name: 'privacy',
+      component: Privacy
+    },
+    {
+      path: '/terms',
+      name: 'terms',
+      component: Terms
     },
   ]
 })
