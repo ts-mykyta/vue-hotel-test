@@ -7,29 +7,34 @@ import Prefooter from '../components/blocks/PrefooterLayout.vue';
 
 const dataObjBoutique = [
     {
-        "imgUrl": "/boutique/spire.jpg",
-        "elemTitle": "The Spire Hotel, Queenstown",
-        "elemText": "The Spire Hotel is a boutique hotel located in the heart of Queenstown that offers modern accommodations with a sleek and sophisticated design. The hotel features ten spacious suites, each with a separate lounge area and views of the surrounding mountains."
+        "imgUrl": "/boutique/warders-hotel.jpg",
+        "elemTitle": "Warders Hotel Fremantle Markets",
+        "elemText": "A small boutique hotel in the old limestone cottages that were once the Fremantle Warders’ homes. The cottages offer a little pocket of calm among the vibrant heart of Fremantle.Refined sanctuaries behind a buffer of thick limestone walls, with thoughtful touches that bring our colonial heritage into your space. Cottage rooms brought back to the original timbers and stonework.",
+        "elemLink": "https://www.wardershotel.com.au/",
     },
     {
-        "imgUrl": "/boutique/george_chris.jpg",
-        "elemTitle": "The George, Christchurch",
-        "elemText": "The George is a boutique hotel located in Christchurch that offers elegant accommodations with a classic design. The hotel features fifty-three stylish rooms and suites, each with a unique design and views of the surrounding gardens or the Avon River."
+        "imgUrl": "/boutique/treasury-on-collins.jpg",
+        "elemTitle": "Treasury On Collins",
+        "elemText": "Treasury on Collins (locally known as ToC) is a historic 1876 classical limestone building that has been refurbished and transformed into a stylish boutique apartment hotel. Offering suites as well as apartments, it is rare to find central Melbourne accommodation with so much space. ToC enjoys a prime location in arguably Melbourne's best precinct where free trams, buses and taxis pass by the door. All accommodation features a well-appointed kitchenette, convenient clothes washer/dryer and a relaxation area (separate in the apartments) with large flat screen tv and instant Netflix. Fast business-grade wifi is reliable, unlimited and absolutely free for all guests.",
+        "elemLink": "https://treasuryoncollins.com.au/",
     },
     {
-        "imgUrl": "/boutique/matauri.jpg",
-        "elemTitle": "The Lodge at Kauri Cliffs, Matauri Bay",
-        "elemText": "The Lodge at Kauri Cliffs is a boutique hotel located in Matauri Bay that offers luxurious accommodations with stunning views of the Pacific Ocean. The hotel features twenty- two elegant suites, each with a private porch and outdoor shower."
+        "imgUrl": "/boutique/the-henry-jones-art-hotel.jpg",
+        "elemTitle": "The Henry Jones Art Hotel",
+        "elemText": "Australia's first dedicated art hotel stands proudly on Hobart's glorious waterfront. A handsome row of historic warehouses dating from the 1820s (the former IXL jam factory) have been creatively transformed into an enthralling multi-award winning first class hotel. The hotel itself is a work of art. Here you'll be fascinated by the unexpected combination of the antique and the ultra modern.",
+        "elemLink": "https://www.thehenryjones.com/packages-offers/",
     },
     {
-        "imgUrl": "/boutique/mollies.jpg",
-        "elemTitle": "Mollies, Auckland",
-        "elemText": "Mollies is a boutique hotel located in Auckland that offers luxurious accommodations with a whimsical and eclectic design. The hotel features ten uniquely decorated rooms and suites, each with a private balcony or terrace and views of the surrounding gardens."
+        "imgUrl": "/boutique/il-mondo-boutique-hotel.jpg",
+        "elemTitle": "Il Mondo Boutique Hotel",
+        "elemText": "Discover Brisbane-based luxury accommodation in Kangaroo Point at IL MONDO Boutique Hotel. Our hotel offers a variety of rooms and Kangaroo Point accommodation apartments that cater to every need, whether you are travelling solo, with family, on a business trip or looking for an extended stay apartment.",
+        "elemLink": "https://www.ilmondo.com.au",
     },
     {
-        "imgUrl": "/boutique/hulbet.jpg",
-        "elemTitle": "Hulbert House, Queenstown",
-        "elemText": "Hulbert House is a boutique hotel located in Queenstown that offers luxurious accommodations in a beautifully restored Victorian villa. The hotel features nine elegant rooms, each with unique design and stunning views of the surrounding mountains and Lake Wakatipu."
+        "imgUrl": "/boutique/atlantic-byron-bay.jpg",
+        "elemTitle": "Atlantic Byron Bay",
+        "elemText": "A stunning new magnesium resort sized pool is at the heart of The Atlantic Byron Bay, set amongst the lush tropical gardens and just waiting for you to dive in. Freshly renovated houses and rooms feature local artisans and a touch of something new. All individually-styled guest rooms offer an en-suite bathroom with toiletries, daily housekeeping services, air-conditioning, a flat-screen TV and a private patio. Luggage storage facilities are available.",
+        "elemLink": "https://atlanticbyronbay.com.au",
     },
 ]
 
@@ -39,18 +44,18 @@ const dataObjBoutique = [
     <Header />
     <main class="main">
         <Promo 
-            title="Welcome Australia Boutique" 
-            text="Australia offers a range of boutique hotels that offer personalized service and unique design. Here’s our top recommendations"
+            title="Boutique Hotels In Australia" 
+            text="Australia features a selection of boutique hotels known for their personalized service and distinctive design. Here are our top recommendations."
             imgUrl="/boutique_promo.jpg"
         />
 
         <Catalog
             :elementsData="dataObjBoutique"
-            title="Best Boutique Hotels"
+            title="Top Boutique Hotels"
         />
 
         <Prefooter
-            text="Whether you're looking for a luxurious escape in a restored Victorian villa or a modern and sleek hotel in the heart of the city, there is something for everyone to enjoy in Australia's boutique hotels."
+            text="Whether you're seeking a luxurious stay in a beautifully restored Victorian villa or a stylish, contemporary hotel in the city center, Australia's boutique hotels offer something for everyone."
         />
     </main>
     <Footer />
