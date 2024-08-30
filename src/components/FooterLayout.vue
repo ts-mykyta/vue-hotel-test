@@ -27,8 +27,8 @@
                             </router-link>
                         </li>
                         <li>
-                            <router-link to="/luxury">
-                                <span class="header__menu-link">Luxury</span>
+                            <router-link to="/business">
+                                <span class="header__menu-link">Business</span>
                             </router-link>
                         </li>
                         <li>
