@@ -23,8 +23,8 @@ function toggleMenu() {
                             </router-link>
                         </li>
                         <li class="header__menu-link">
-                            <router-link to="/luxury" exact-active-class="header__menu-link--active">
-                                <span>Luxury</span>
+                            <router-link to="/business" exact-active-class="header__menu-link--active">
+                                <span>Business</span>
                             </router-link>
                         </li>
                         <li class="header__menu-link">
