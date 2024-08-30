@@ -15,7 +15,7 @@ const props = defineProps({
     <div class="catalog__element-content">
         <div class="catalog__element-title">{{ elementData.elemTitle }}</div>
         <div class="catalog__element-text">{{ elementData.elemText }}</div>
-        <a href="" target="_blank" class="catalog__element-btn">Read More</a>
+        <a :href="elementData.elemLink ? elementData.elemLink : '#'" target="_blank" class="catalog__element-btn">Read More</a>
     </div>
 </div>
 </template>
