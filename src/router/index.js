@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Home from '../pages/Home.vue'
-import Luxury from '../pages/Luxury.vue'
+import Business from '../pages/Business.vue'
 import Casino from '../pages/Casino.vue'
 import Budget from '../pages/Budget.vue'
 import Boutique from '../pages/Boutique.vue'
@@ -17,9 +17,9 @@ const router = createRouter({
       component: Home
     },
     {
-      path: '/luxury',
-      name: 'luxury',
-      component: Luxury
+      path: '/business',
+      name: 'business',
+      component: Business
     },
     {
       path: '/casino',
