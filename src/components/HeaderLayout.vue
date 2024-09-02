@@ -1,18 +1,24 @@
 <script setup>
 import { useRoute } from 'vue-router';
+import { ref, watchEffect } from 'vue';
 
+const isMenuActive = ref(false);
 
 function toggleMenu() {
-    const header = document.querySelector('.header')
-    const body = document.querySelector('body')
-
-    header.classList.toggle('header--active');
-    body.classList.toggle('body--hidden')
+  isMenuActive.value = !isMenuActive.value;
 }
+
+watchEffect(() => {
+  if (isMenuActive.value) {
+    document.body.classList.add('body--hidden');
+  } else {
+    document.body.classList.remove('body--hidden');
+  }
+});
 </script>
 
 <template>
-    <header class="header">
+    <header :class="['header', { 'header--active': isMenuActive }]">
         <div class="container">
             <div class="header__wrapper">
                 <nav class="header__menu">
