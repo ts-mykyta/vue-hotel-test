@@ -14,44 +14,58 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: Home
+      component: Home,
+      meta: {title: "Home"}
     },
     {
       path: '/business',
       name: 'business',
-      component: Business
+      component: Business,
+      meta: {title: "Business"}
     },
     {
       path: '/casino',
       name: 'casino',
-      component: Casino
+      component: Casino,
+      meta: {title: "Casino"}
     },
     {
       path: '/budget',
       name: 'budget',
-      component: Budget
+      component: Budget,
+      meta: {title: "Budget"}
     },
     {
       path: '/boutique',
       name: 'boutique',
-      component: Boutique
+      component: Boutique,
+      meta: {title: "Boutique"}
     },
     {
       path: '/contact',
       name: 'contact',
-      component: Contact
+      component: Contact,
+      meta: {title: "Contact"}
     },
     {
       path: '/privacy',
       name: 'privacy',
-      component: Privacy
+      component: Privacy,
+      meta: {title: "Privacy Policy"}
     },
     {
       path: '/terms',
       name: 'terms',
-      component: Terms
+      component: Terms,
+      meta: {title: "Terms"}
     },
   ]
+})
+
+router.beforeEach((to, from, next) => {
+  const defaultTitle = 'Vue Hotel';
+  document.title = to.meta.title || defaultTitle;
+  next();
 })
 
 export default router
