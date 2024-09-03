@@ -59,7 +59,14 @@ const router = createRouter({
       component: Terms,
       meta: {title: "Terms"}
     },
-  ]
+  ],
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      return { top: 0 };
+    }
+  }
 })
 
 router.beforeEach((to, from, next) => {
