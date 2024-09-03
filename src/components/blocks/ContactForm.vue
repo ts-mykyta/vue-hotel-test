@@ -71,6 +71,7 @@
             padding: 16px
             resize: none
             outline: none
+            font-family: sans-serif
         
         button
             padding: 14px 50px
