@@ -73,7 +73,7 @@ const dataObjHotels = [
         />
 
         <Prefooter
-            text="Australia has an impressive selection of luxurious hotels that offer guests stunning views, world-class amenities, and exceptional service. Whether you're looking for a romantic getaway or an adventurous vacation, a hotel in New Zealand will meet your needs."
+            text="Australia boasts a remarkable range of business hotels that provide guests with breathtaking views, top-notch facilities, and outstanding service. Whether you’re seeking a romantic escape or an adventurous vacation, you'll find a hotel in Australia that caters to your needs."
         />
     </main>
     <Footer />

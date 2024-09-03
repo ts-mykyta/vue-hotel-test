@@ -18,11 +18,11 @@
 
             <div class="contact__touch">
                 <h2>Get in touch with us</h2>
-                <a href="mailto:support@company.com" class="contact__touch-link">
+                <a href="mailto:auhotelsbest@company.com" class="contact__touch-link">
                     <div class="contact__touch-icon">
                         <img src="/icons/mail.png" alt="mail">
                     </div>
-                    <span>support@company.com</span>
+                    <span>auhotelsbest@company.com</span>
                 </a>
             </div>
         </div>
@@ -71,6 +71,7 @@
             padding: 16px
             resize: none
             outline: none
+            font-family: sans-serif
         
         button
             padding: 14px 50px

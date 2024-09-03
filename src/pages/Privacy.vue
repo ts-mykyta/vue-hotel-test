@@ -132,7 +132,7 @@ import Footer from '../components/FooterLayout.vue';
 
                     <p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
 
-                    <p><strong>Mokies</strong> is owned by Manannan, with an address at 5 Maple View, Parcnagowan, Kilkenny, Ireland. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website, <a href="https://auhotelsbest.com">https://auhotelsbest.com</a>. By using the Website, you agree to the terms of this Privacy Policy.</p>
+                    <p><strong>Mokies</strong> is owned by AU Hotels best, with an address at 2731 Camino Del Mar, Del Mar, California, United States of America. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website, <a href="https://auhotelsbest.com">https://auhotelsbest.com</a>. By using the Website, you agree to the terms of this Privacy Policy.</p>
                 </div>
             </div>
         </section>
