@@ -10,7 +10,7 @@ import Footer from '../components/FooterLayout.vue';
             <div class="container">
                 <h1 class="policy__title">Terms and Conditions</h1>
                 <div class="policy__body">
-                    <p>These Terms and Conditions govern your use of the website <a href="http://auhotelsbest.com">auhotelsbest.com</a>, Home (the "Website"), owned by Manannan, with an address at 5 Maple View, Parcnagowan, Kilkenny, Ireland. By accessing or using the Website, you agree to comply with and be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Website.</p>
+                    <p>These Terms and Conditions govern your use of the website <a href="http://auhotelsbest.com">auhotelsbest.com</a>, Home (the "Website"), owned by AU Hotels best, with an address at 2731 Camino Del Mar, Del Mar, California, United States of America. By accessing or using the Website, you agree to comply with and be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Website.</p>
 
                     <h2>Welcome to Auhotelsbest!</h2>
 
