@@ -63,7 +63,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-  const defaultTitle = 'Vue Hotel';
+  const defaultTitle = 'Discover Australia';
   document.title = to.meta.title || defaultTitle;
   next();
 })
