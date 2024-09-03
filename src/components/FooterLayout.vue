@@ -77,11 +77,11 @@ function getCurrentYear() {
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:auhotelsbest.com@company.com">
+                            <a href="mailto:auhotelsbest@company.com">
                                 <div class="footer__contacts-icon footer__icon">
                                     <img src="/icons/mail.png" alt="">
                                 </div>
-                                <p class="footer__contacts-text">auhotelsbest.com@company.com</p>
+                                <p class="footer__contacts-text">auhotelsbest@company.com</p>
                             </a>
                         </li>
                     </ul>
