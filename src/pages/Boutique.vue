@@ -46,7 +46,7 @@ const dataObjBoutique = [
         <Promo 
             title="Boutique Hotels In Australia" 
             text="Australia features a selection of boutique hotels known for their personalized service and distinctive design. Here are our top recommendations."
-            imgUrl="/promo/boutique_promo.jpg"
+            imgUrl="/promo/boutique_promo.jpeg"
         />
 
         <Catalog
