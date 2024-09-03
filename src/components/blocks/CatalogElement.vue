@@ -9,7 +9,7 @@ const props = defineProps({
 
 <template>
 <div class="catalog__element">
-    <a href="#" class="catalog__element-img">
+    <a :href="elementData.elemLink ? elementData.elemLink : '#'" class="catalog__element-img">
         <img :src="props.elementData.imgUrl" alt="img">
     </a>
     <div class="catalog__element-content">
