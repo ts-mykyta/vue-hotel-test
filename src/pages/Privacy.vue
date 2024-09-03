@@ -8,25 +8,25 @@ import Footer from '../components/FooterLayout.vue';
     <main class="main">
         <section class="policy">
             <div class="container">
-                <h1 class="policy__title">Privacy Policy for zokies</h1>
+                <h1 class="policy__title">Privacy Policy for Auhotelsbest</h1>
                 <div class="policy__body">
-                    <p>Business Name: Manannan</p>
-                    <p>Address: 5 Maple View, Parcnagowan, Kilkenny, P95 A5R7</p>
-                    <p>Country: Ireland</p>
-                    <p>Website URL: <a href="https://zokies.net">https://zokies.net</a></p>
-                    <p>Email: <a href="mailto:manannan1959@gmail.com">manannan1959@gmail.com</a></p>
+                    <p>Business Name: AU Hotels best</p>
+                    <p>Address: 2731 Camino Del Mar, Del Mar, California</p>
+                    <p>Country: United States of America</p>
+                    <p>Website URL: <a href="https://auhotelsbest.com">https://auhotelsbest.com</a></p>
+                    <p>Email: <a href="mailto:auhotelsbest@company.com">auhotelsbest@company.com</a></p>
 
-                    <p>At zokies, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by zokies and how we use it.</p>
+                    <p>At Auhotelsbest, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by Auhotelsbest and how we use it.</p>
 
-                    <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <a href="mailto:manannan1959@gmail.com">manannan1959@gmail.com</a> or <a href="mailto:info@zokies.net">info@zokies.net</a>.</p>
+                    <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <a href="mailto:auhotelsbest@company.com">auhotelsbest@company.com</a>.</p>
 
-                    <h2>Privacy Policy for zokies</h2>
+                    <h2>Privacy Policy for Auhotelsbest</h2>
 
-                    <p>At zokies, accessible from <a href="http://anirala.com">anirala.com</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by zokies and how we use it.</p>
+                    <p>At Auhotelsbest, accessible from <a href="http://auhotelsbest.com">auhotelsbest.com</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Auhotelsbest and how we use it.</p>
 
                     <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-                    <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in zokies. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+                    <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Auhotelsbest. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 
                     <h2>Consent</h2>
 
@@ -55,11 +55,11 @@ import Footer from '../components/FooterLayout.vue';
 
                     <h2>Log Files</h2>
 
-                    <p>zokies follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this as a part of hosting services' analytics. The information collected by log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+                    <p>Auhotelsbest follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this as a part of hosting services' analytics. The information collected by log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
 
                     <h2>Cookies and Web Beacons</h2>
 
-                    <p>Like any other website, zokies uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
+                    <p>Like any other website, Auhotelsbest uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
 
                     <h3>Google DoubleClick DART Cookie</h3>
 
@@ -75,15 +75,15 @@ import Footer from '../components/FooterLayout.vue';
 
                     <h2>Advertising Partners Privacy Policies</h2>
 
-                    <p>You may consult this list to find the Privacy Policy for each of the advertising partners of zokies.</p>
+                    <p>You may consult this list to find the Privacy Policy for each of the advertising partners of Auhotelsbest.</p>
 
-                    <p>Third-party ad servers or ad networks use technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on zokies, which are sent directly to users' browsers. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+                    <p>Third-party ad servers or ad networks use technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Auhotelsbest, which are sent directly to users' browsers. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
 
-                    <p>Note that zokies has no access to or control over these cookies that are used by third-party advertisers.</p>
+                    <p>Note that Auhotelsbest has no access to or control over these cookies that are used by third-party advertisers.</p>
 
                     <h2>Third Party Privacy Policies</h2>
 
-                    <p>zokies's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>
+                    <p>Auhotelsbest's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>
 
                     <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
 
@@ -116,7 +116,7 @@ import Footer from '../components/FooterLayout.vue';
 
                     <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
-                    <p>zokies does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+                    <p>Auhotelsbest does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 
                     <h2>Changes to This Privacy Policy</h2>
 
@@ -132,7 +132,7 @@ import Footer from '../components/FooterLayout.vue';
 
                     <p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
 
-                    <p><strong>Mokies</strong> is owned by Manannan, with an address at 5 Maple View, Parcnagowan, Kilkenny, Ireland. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website, <a href="https://zokies.net">https://zokies.net</a>. By using the Website, you agree to the terms of this Privacy Policy.</p>
+                    <p><strong>Mokies</strong> is owned by Manannan, with an address at 5 Maple View, Parcnagowan, Kilkenny, Ireland. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website, <a href="https://auhotelsbest.com">https://auhotelsbest.com</a>. By using the Website, you agree to the terms of this Privacy Policy.</p>
                 </div>
             </div>
         </section>

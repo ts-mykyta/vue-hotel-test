@@ -64,7 +64,7 @@ const dataObjHotels = [
         <Promo 
             title="Welcome To Business Hotels In Australia" 
             text="Australia offers some of the most luxurious business hotels in the world. We bring you the best hotels with great deals."
-            imgUrl="/promo/luxury_promo.jpg"
+            imgUrl="/promo/business_promo.jpg"
         />
 
         <Catalog

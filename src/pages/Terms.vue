@@ -10,13 +10,13 @@ import Footer from '../components/FooterLayout.vue';
             <div class="container">
                 <h1 class="policy__title">Terms and Conditions</h1>
                 <div class="policy__body">
-                    <p>These Terms and Conditions govern your use of the website <a href="http://zokies.net">zokies.net</a>, Home (the "Website"), owned by Manannan, with an address at 5 Maple View, Parcnagowan, Kilkenny, Ireland. By accessing or using the Website, you agree to comply with and be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Website.</p>
+                    <p>These Terms and Conditions govern your use of the website <a href="http://auhotelsbest.com">auhotelsbest.com</a>, Home (the "Website"), owned by Manannan, with an address at 5 Maple View, Parcnagowan, Kilkenny, Ireland. By accessing or using the Website, you agree to comply with and be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Website.</p>
 
-                    <h2>Welcome to zokies!</h2>
+                    <h2>Welcome to Auhotelsbest!</h2>
 
-                    <p>These terms and conditions outline the rules and regulations for the use of zokies's Website, located at <a href="http://anirala.com">anirala.com</a>.</p>
+                    <p>These terms and conditions outline the rules and regulations for the use of Auhotelsbest's Website, located at <a href="http://auhotelsbest.com">auhotelsbest.com</a>.</p>
 
-                    <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use zokies if you do not agree to take all of the terms and conditions stated on this page.</p>
+                    <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use Auhotelsbest if you do not agree to take all of the terms and conditions stated on this page.</p>
 
                     <h3>Terminology</h3>
 
@@ -24,29 +24,29 @@ import Footer from '../components/FooterLayout.vue';
 
                     <h3>Cookies</h3>
 
-                    <p>We employ the use of cookies. By accessing zokies, you agreed to use cookies in agreement with zokies's <a href="#">Privacy Policy</a>.</p>
+                    <p>We employ the use of cookies. By accessing Auhotelsbest, you agreed to use cookies in agreement with Auhotelsbest's <a href="#">Privacy Policy</a>.</p>
 
                     <p>Most interactive websites use cookies to let us retrieve the user's details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p>
 
                     <h3>License</h3>
 
-                    <p>Unless otherwise stated, zokies and/or its licensors own the intellectual property rights for all material on zokies. All intellectual property rights are reserved. You may access this from zokies for your own personal use subjected to restrictions set in these terms and conditions.</p>
+                    <p>Unless otherwise stated, Auhotelsbest and/or its licensors own the intellectual property rights for all material on Auhotelsbest. All intellectual property rights are reserved. You may access this from Auhotelsbest for your own personal use subjected to restrictions set in these terms and conditions.</p>
 
                     <p>You must not:</p>
                     <ul>
-                        <li>Republish material from zokies</li>
-                        <li>Sell, rent or sub-license material from zokies</li>
-                        <li>Reproduce, duplicate or copy material from zokies</li>
-                        <li>Redistribute content from zokies</li>
+                        <li>Republish material from Auhotelsbest</li>
+                        <li>Sell, rent or sub-license material from Auhotelsbest</li>
+                        <li>Reproduce, duplicate or copy material from Auhotelsbest</li>
+                        <li>Redistribute content from Auhotelsbest</li>
                     </ul>
 
                     <p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the <a href="https://www.termsandconditionsgenerator.com">Terms and Conditions Generator</a>.</p>
 
                     <h3>Comments</h3>
 
-                    <p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. zokies does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of zokies, its agents and/or affiliates. Comments reflect the views and opinions of the person who posts their views and opinions. To the extent permitted by applicable laws, zokies shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
+                    <p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Auhotelsbest does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Auhotelsbest, its agents and/or affiliates. Comments reflect the views and opinions of the person who posts their views and opinions. To the extent permitted by applicable laws, Auhotelsbest shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
 
-                    <p>zokies reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive, or causes breach of these Terms and Conditions.</p>
+                    <p>Auhotelsbest reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive, or causes breach of these Terms and Conditions.</p>
 
                     <h3>Hyperlinking to our Content</h3>
 
@@ -84,8 +84,8 @@ import Footer from '../components/FooterLayout.vue';
                     <p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>
 
                     <p><strong>Contact Information:</strong></p>
-                    <p>Mokies - Owned by Manannan, at 5 Maple View, Parcnagowan, Kilkenny, Ireland.</p>
-                    <p>Email: <a href="mailto:manannan1959@gmail.com">manannan1959@gmail.com</a></p>
+                    <p>2731 Camino Del Mar, Del Mar, California</p>
+                    <p>Email: <a href="mailto:auhotelsbest.com@company.com">auhotelsbest.com@company.com</a></p>
                 </div>
             </div>
         </section>

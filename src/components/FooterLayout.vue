@@ -1,4 +1,7 @@
 <script setup>
+function getCurrentYear() {
+    return new Date().getFullYear();
+}
 </script>
 
 <template>
@@ -62,23 +65,23 @@
                                 <div class="footer__contacts-icon footer__icon">
                                     <img src="/icons/pin.png" alt="">
                                 </div>
-                                <p class="footer__contacts-text">444 S. Cedros Ave Solana Beach, California</p>
+                                <p class="footer__contacts-text">2731 Camino Del Mar, Del Mar, California</p>
                             </a>
                         </li>
                         <li>
-                            <a href="tel:+14235215.1165">
+                            <a href="tel:+142352151367">
                                 <div class="footer__contacts-icon footer__icon">
                                     <img src="/icons/phone.png" alt="">
                                 </div>
-                                <p class="footer__contacts-text">+1.423.5215.1165</p>
+                                <p class="footer__contacts-text">+1.423.5215.1367</p>
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:support@company.com">
+                            <a href="mailto:auhotelsbest@company.com">
                                 <div class="footer__contacts-icon footer__icon">
                                     <img src="/icons/mail.png" alt="">
                                 </div>
-                                <p class="footer__contacts-text">support@company.com</p>
+                                <p class="footer__contacts-text">auhotelsbest@company.com</p>
                             </a>
                         </li>
                     </ul>
@@ -86,7 +89,7 @@
             </div>
 
             <div class="footer__copyright">
-                <p>Copyright © 2023-2024 anirala.com</p>
+                <p>Copyright © 2023-{{ getCurrentYear() }} auhotelsbest.com</p>
                 <div>
                     <a href="/terms">Terms and Conditions</a>
                     <a href="/privacy">Privacy Policy</a>
