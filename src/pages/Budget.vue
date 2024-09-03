@@ -46,7 +46,7 @@ const dataObjBudget = [
         <Promo 
             title="Cheap Hotels in Australia" 
             text="Australia welcomes budget-conscious travelers with a variety of affordable accommodation options. You can enjoy a comfortable stay without spending a fortune."
-            imgUrl="/budget_promo.jpg"
+            imgUrl="/promo/budget_promo.jpg"
         />
 
         <Catalog

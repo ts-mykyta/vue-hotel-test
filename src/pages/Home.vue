@@ -77,7 +77,7 @@ const dataObjVisit = [
         <Promo 
             title="Discover Australia!" 
             text="Welcome to Australia! This incredible country is full of breathtaking natural wonders, vibrant cities, and exciting experiences just waiting to be discovered. At Zokies, we’re here to help you make the most of your Australian adventure. From the best hotels to must-see attractions and hidden gems, we provide all the information you need for an unforgettable holiday. Let us be your guide to exploring the beauty and excitement of Australia!"
-            imgUrl="/home_promo.jpg"
+            imgUrl="/promo/home_promo.jpg"
             specialClasses="promo--home"
         />
 

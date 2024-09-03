@@ -12,7 +12,7 @@ import ContactForm from '../components/blocks/ContactForm.vue';
     <main class="main">
         <Promo 
             title="Contact Us"
-            imgUrl="/contact_promo.jpg"
+            imgUrl="/promo/contact_promo.jpg"
         />
 
         <Prefooter

@@ -46,7 +46,7 @@ const dataObjCasinos = [
         <Promo 
             title="Casino Hotels In Australia" 
             text="Australia is home to numerous land-based casinos that deliver a vibrant gaming experience and a host of other amenities. Gambling may not be for everyone, but if you enjoy playing the pokies , we've put together a list of the best casinos for you to explore."
-            imgUrl="/casino_promo.jpg"
+            imgUrl="/promo/casino_promo.jpg"
         />
 
         <Catalog
