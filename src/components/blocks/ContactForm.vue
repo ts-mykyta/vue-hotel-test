@@ -18,11 +18,11 @@
 
             <div class="contact__touch">
                 <h2>Get in touch with us</h2>
-                <a href="mailto:auhotelsbest@company.com" class="contact__touch-link">
+                <a href="mailto:support@auhotelsbest.com" class="contact__touch-link">
                     <div class="contact__touch-icon">
                         <img src="/icons/mail.png" alt="mail">
                     </div>
-                    <span>auhotelsbest@company.com</span>
+                    <span>support@auhotelsbest.com</span>
                 </a>
             </div>
         </div>

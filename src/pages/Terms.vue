@@ -10,7 +10,7 @@ import Footer from '../components/FooterLayout.vue';
             <div class="container">
                 <h1 class="policy__title">Terms and Conditions</h1>
                 <div class="policy__body">
-                    <p>These Terms and Conditions govern your use of the website <a href="http://auhotelsbest.com">auhotelsbest.com</a>, Home (the "Website"), owned by AU Hotels best, with an address at 2731 Camino Del Mar, Del Mar, California, United States of America. By accessing or using the Website, you agree to comply with and be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Website.</p>
+                    <p>These Terms and Conditions govern your use of the website <a href="http://auhotelsbest.com">auhotelsbest.com</a>, Home (the "Website"), owned by AU Hotels best, with an address at 150 Exhibition St, Melbourne VIC 3000, Australia. By accessing or using the Website, you agree to comply with and be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Website.</p>
 
                     <h2>Welcome to Auhotelsbest!</h2>
 
@@ -84,8 +84,8 @@ import Footer from '../components/FooterLayout.vue';
                     <p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>
 
                     <p><strong>Contact Information:</strong></p>
-                    <p>2731 Camino Del Mar, Del Mar, California</p>
-                    <p>Email: <a href="mailto:auhotelsbest.com@company.com">auhotelsbest.com@company.com</a></p>
+                    <p>150 Exhibition St, Melbourne VIC 3000</p>
+                    <p>Email: <a href="mailto:support@auhotelsbest.com">support@auhotelsbest.com</a></p>
                 </div>
             </div>
         </section>
