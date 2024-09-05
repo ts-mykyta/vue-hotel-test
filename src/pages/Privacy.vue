@@ -11,14 +11,14 @@ import Footer from '../components/FooterLayout.vue';
                 <h1 class="policy__title">Privacy Policy for Auhotelsbest</h1>
                 <div class="policy__body">
                     <p>Business Name: AU Hotels best</p>
-                    <p>Address: 2731 Camino Del Mar, Del Mar, California</p>
-                    <p>Country: United States of America</p>
+                    <p>Address: 150 Exhibition St, Melbourne VIC 3000</p>
+                    <p>Country: Australia</p>
                     <p>Website URL: <a href="https://auhotelsbest.com">https://auhotelsbest.com</a></p>
-                    <p>Email: <a href="mailto:auhotelsbest@company.com">auhotelsbest@company.com</a></p>
+                    <p>Email: <a href="mailto:support@auhotelsbest.com">support@auhotelsbest.com</a></p>
 
                     <p>At Auhotelsbest, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by Auhotelsbest and how we use it.</p>
 
-                    <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <a href="mailto:auhotelsbest@company.com">auhotelsbest@company.com</a>.</p>
+                    <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us at <a href="mailto:support@auhotelsbest.com">support@auhotelsbest.com</a>.</p>
 
                     <h2>Privacy Policy for Auhotelsbest</h2>
 
@@ -132,7 +132,7 @@ import Footer from '../components/FooterLayout.vue';
 
                     <p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
 
-                    <p><strong>Mokies</strong> is owned by AU Hotels best, with an address at 2731 Camino Del Mar, Del Mar, California, United States of America. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website, <a href="https://auhotelsbest.com">https://auhotelsbest.com</a>. By using the Website, you agree to the terms of this Privacy Policy.</p>
+                    <p><strong>Mokies</strong> is owned by AU Hotels best, with an address at 150 Exhibition St, Melbourne VIC 3000, Australia. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you visit our website, <a href="https://auhotelsbest.com">https://auhotelsbest.com</a>. By using the Website, you agree to the terms of this Privacy Policy.</p>
                 </div>
             </div>
         </section>

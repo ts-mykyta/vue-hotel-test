@@ -65,23 +65,23 @@ function getCurrentYear() {
                                 <div class="footer__contacts-icon footer__icon">
                                     <img src="/icons/pin.png" alt="">
                                 </div>
-                                <p class="footer__contacts-text">2731 Camino Del Mar, Del Mar, California</p>
+                                <p class="footer__contacts-text">150 Exhibition St, Melbourne VIC 3000</p>
                             </a>
                         </li>
                         <li>
-                            <a href="tel:+142352151367">
+                            <a href="tel:+61396505225">
                                 <div class="footer__contacts-icon footer__icon">
                                     <img src="/icons/phone.png" alt="">
                                 </div>
-                                <p class="footer__contacts-text">+1.423.5215.1367</p>
+                                <p class="footer__contacts-text">+6.139.6505.225</p>
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:auhotelsbest@company.com">
+                            <a href="mailto:support@auhotelsbest.com">
                                 <div class="footer__contacts-icon footer__icon">
                                     <img src="/icons/mail.png" alt="">
                                 </div>
-                                <p class="footer__contacts-text">auhotelsbest@company.com</p>
+                                <p class="footer__contacts-text">support@auhotelsbest.com</p>
                             </a>
                         </li>
                     </ul>
